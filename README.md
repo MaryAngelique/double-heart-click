@@ -17,9 +17,7 @@
 
 Users should be able to:
 
-#### - 
-
-#### - 
+#### - Double click on the image to "like" it
 
 #### - 
 
@@ -33,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [ GitHub Solution](https://github.com/MaryAngelique/double-heart-click)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
