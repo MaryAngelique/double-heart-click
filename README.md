@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ GitHub Solution](https://github.com/MaryAngelique/double-heart-click)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Double Heart Click Website](https://double-heart-click.vercel.app/)
 
 ## My process
 
